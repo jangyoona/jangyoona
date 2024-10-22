@@ -71,9 +71,9 @@
 <br>
 <br>
 
-> <h1><a href="https://github.com/jangyoona/jangyoona.github.io" target="_blank">참여 프로젝트</a></h1>
-* 1️⃣ 1:N 매칭 서비스 / `은퇴한 시니어와 보육원의 아이들을 매칭하여 재능기부(봉사활동)을 목적으로 제작한 웹서비스`
-* 2️⃣ 그룹웨어 서비스 / `기업에서 필요한 사내 관리 웹서비스`
+> <h1>참여 프로젝트</h1>
+* <a href="https://github.com/jangyoona/matching-service" target="_blank">1️⃣ 1:N 매칭 서비스</a> / `은퇴한 시니어와 보육원의 아이들을 매칭하여 재능기부(봉사활동)을 목적으로 제작한 웹서비스`
+* <a href="https://github.com/jangyoona/groupware-service" target="_black">2️⃣ 그룹웨어 서비스</a> / `기업에서 필요한 사내 관리 웹서비스`
 
 
 <!-- 푸터 -->
